@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prathish07
-- 👀 I’m interested in AI, ML, Robotics
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on various projects related to ML and AI
+- 👀 Interested in AI, ML, Robotics
+- 🌱 Currently learning ML
+- 💞️ Looking to collaborate on various projects related to ML and AI
 - 📫 How to reach me : Insta - https://www.instagram.com/___prathish___/
 
 <!---
