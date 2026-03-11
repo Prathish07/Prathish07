@@ -1,16 +1,16 @@
-# Hi there 👋 I'm Prathish A
+# Hi there I'm Prathish A
 
-🧠 **AI/ML Enthusiast | Graph Neural Networks | Explainable AI | Federated Learning**
-💻 Passionate about building intelligent systems, scalable ML pipelines, and high-performance algorithms.
+**AI/ML Enthusiast | Graph Neural Networks | Explainable AI | Federated Learning**
+Passionate about building intelligent systems, scalable ML pipelines, and high-performance algorithms.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 Undergraduate student specializing in **Artificial Intelligence and Machine Learning**
-* 🔬 Interested in **Graph Neural Networks, Explainable AI, and Federated Learning**
-* ⚙️ Building **AI systems for healthcare, predictive maintenance, and anomaly detection**
-* 📊 Experienced with **data analysis, machine learning, and visualization tools**
+* Undergraduate student specializing in **Artificial Intelligence and Machine Learning**
+* Interested in **Graph Neural Networks, Explainable AI, and Federated Learning**
+* Building **AI systems for healthcare, predictive maintenance, and anomaly detection**
+* Experienced with **data analysis, machine learning, and visualization tools**
 
 ---
 
@@ -112,4 +112,4 @@
 
 ---
 
-⭐ Always open to collaborating on **AI, ML, and research-oriented projects**.
+Always open to collaborating on **AI, ML, and research-oriented projects**.
